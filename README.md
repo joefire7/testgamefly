@@ -1,2 +1,0 @@
-# testgamefly
-beta test
